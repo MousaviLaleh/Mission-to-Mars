@@ -31,7 +31,8 @@ Take the steps :
   - Create a new dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
   - Create a function that will scrape the hemisphere data and return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
 - Retrieving all the data from Mongo database in [app.py](app.py) file.
-- Design the [web page](http://127.0.0.1:5501/index.html) with [Bootstrap](https://getbootstrap.com/docs/3.3/css/) components and show the data scraping result on a webpage.
-- ![02.png](Images/02.png)
+- Design the [web page](http://127.0.0.1:5501/index.html) with [Bootstrap](https://getbootstrap.com/docs/3.3/css/) components and show the data scraping result on a webpage. <br/>
+   
+   ![02.png](Images/02.png)
 
 <br/>
