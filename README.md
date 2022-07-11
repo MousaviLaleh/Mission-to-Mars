@@ -25,7 +25,6 @@ By taking steps :
   - Create a function that will scrape the hemisphere data and return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
 - Retrieving all of the data from Mongo database in [app.py](app.py) file.
 - Modify the [index.html]() file to show the final result in a [web page](http://127.0.0.1:5501/index.html).
-<br/>
-![02.png](Images/02.png)
+- ![02.png](Images/02.png)
 
 
