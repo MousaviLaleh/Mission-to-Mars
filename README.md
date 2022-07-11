@@ -22,6 +22,7 @@ By taking steps :
 <br/>
 
 ## Update the Web App with Mars’s Hemisphere Images and Titles
+Take the steps :
 - Edit [scraping.py](scraping.py) file to :
   - Create a new dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
   - Create a function that will scrape the hemisphere data and return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
