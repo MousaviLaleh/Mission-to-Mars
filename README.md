@@ -19,7 +19,7 @@ By taking steps :
 - Print the list of dictionary items 
 <br/>
 
-  ![01.png](/Images/01.png)
+    ![01.png](/Images/01.png)
 
 <br/>
 - Check if image [links](https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg) are working properly.
