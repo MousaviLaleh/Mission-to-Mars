@@ -16,7 +16,7 @@ Data Environment : &nbsp;BeautifulSoup,&nbsp; Flask-PyMongo,&nbsp; Numpy,&nbsp; 
 By taking steps :
 - visit [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) website to view the hemisphere images.
 - Use the DevTools to inspect the page for the proper elements to scrape, create a list to hold image URL string and title, and retrieve the full-resolution image for each of Mars's hemispheres.
-- Print the images url and title. <br/>
+- Print the images' url and title. <br/>
 
    ![01.png](/Images/01.png)
 
