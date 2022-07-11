@@ -17,9 +17,9 @@ By taking steps :
 - visit [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) website to view the hemisphere images.
 - Use the DevTools to inspect the page for the proper elements to scrape, create a list to hold image URL string and title, and retrieve the full-resolution image for each of Mars's hemispheres.
 - Print the list of dictionary items 
-- <br/>
+<br/>
 - ![01.png](/Images/01.png)
-- <br/>
+<br/>
 - Check if image [links](https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg) are working properly.
 <br/>
 
