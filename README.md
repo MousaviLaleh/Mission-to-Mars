@@ -20,7 +20,7 @@ By taking steps :
 - Check if image [links](https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg) are working properly.
 
 ## Update the Web App with Mars’s Hemisphere Images and Titles
-- Edit scraping.py file to :
+- Edit [scraping.py](scraping.py) file to :
   - Create a new dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
   - Create a function that will scrape the hemisphere data and return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
 - Retrieving all of the data from Mongo database in [app.py](app.py) file.
