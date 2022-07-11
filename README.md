@@ -10,6 +10,7 @@ Softwares : &nbsp;[Python](https://www.python.org/doc/essays/blurb/),&nbsp; [Pan
 <br/>
 Data Environment : &nbsp;BeautifulSoup,&nbsp; Flask-PyMongo,&nbsp; Numpy,&nbsp; PyMongo,&nbsp; Splinter,&nbsp; webdriver-manager,&nbsp; Bootstrap3
 
+<br/>
 
 ## Scrape Full-Resolution Mars Hemisphere Images and Titles 
 By taking steps :
@@ -18,6 +19,7 @@ By taking steps :
 - Print the list of dictionary items <br/>
 - ![01.png](/Images/01.png)<br/>
 - Check if image [links](https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg) are working properly.
+<br/>
 
 ## Update the Web App with Mars’s Hemisphere Images and Titles
 - Edit [scraping.py](scraping.py) file to :
