@@ -17,6 +17,7 @@ By taking steps :
 - Use the DevTools to inspect the page for the proper elements to scrape, create a list to hold image URL string and title, and retrieve the full-resolution image for each of Mars's hemispheres.
 - Print the list of dictionary items
 - ![01.png](/Images/01.png)
+- Check if the [links](https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg) are working properly.
 
 ## Update the Web App with Mars’s Hemisphere Images and Titles
-
+![]()
