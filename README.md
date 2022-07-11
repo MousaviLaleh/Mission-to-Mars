@@ -1,7 +1,7 @@
 # Mission to Mars
 
 ## Project Overview
-A web application with Flask that will automatically scrape different websites to extract data about Mars planet, store it in MongoDB database and display the information on a HTML page.
+A web application with Flask that will automatically scrape different websites to extract data about Mars planet, store it in MongoDB database and display the data on a HTML page.
 
 ### Resources
 Data Sources : &nbsp;[MARS Planet Science](https://data-class-mars.s3.amazonaws.com/Mars/index.html),&nbsp; [Jet Propulsion Laboratory](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html),&nbsp; [Galaxy Facts](https://data-class-mars-facts.s3.amazonaws.com/Mars_Facts/index.html),&nbsp; [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
